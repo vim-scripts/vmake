@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1893
+
+vmake is a small bash script to use quickfix with the external make command.  running 'vmake' on sourcode with errors will let gvim  jump automatically to the first error. Now you can use all quixfix commands.
+If you prefer the external make instead of the build in check it out.
+
